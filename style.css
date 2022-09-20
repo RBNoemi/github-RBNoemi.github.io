@@ -89,7 +89,7 @@ ul {
 }
 
 li {
-  list-style-type: square;
+  list-style-type: "\1F44D";
 }
 
 blockquote::before {
